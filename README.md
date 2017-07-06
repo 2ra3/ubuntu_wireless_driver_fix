@@ -24,4 +24,4 @@ while restarting, click on change boot-->insecure boot-->type asked chars of pas
 
 then take ubuntu 14.04, and wifi is installed. 
 
-Fin.
+
