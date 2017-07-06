@@ -23,3 +23,5 @@ while installing, permission to insecure boot is asked and click ok. then give a
 while restarting, click on change boot-->insecure boot-->type asked chars of password
 
 then take ubuntu 14.04, and wifi is installed. 
+
+Fin.
